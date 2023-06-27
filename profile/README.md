@@ -1,7 +1,7 @@
 # Hello World 👋, Welcome to Attrix Technologies
 
-![Attrix Technologies Logo](https://raw.githubusercontent.com/attrixtech/attrixtech/f3f4d75a9e70382a98eb6cade91dc6eae9a6ad99/logo-light.svg#gh-dark-mode-only)
-![Attrix Technologies Logo](https://raw.githubusercontent.com/attrixtech/attrixtech/ef8a951f8626846ef688f0715136fe7365499f6d/logo-dark.svg#gh-light-mode-only)
+![Attrix Technologies Logo](https://raw.githubusercontent.com/attrixtech/.github/9d533df726f75cd0d79bcaec008b4fb83bbf8921/logo-light.svg#gh-dark-mode-only)
+![Attrix Technologies Logo](https://raw.githubusercontent.com/attrixtech/.github/9d533df726f75cd0d79bcaec008b4fb83bbf8921/logo-dark.svg#gh-light-mode-only)
 
 ### Attrix Technologies is Agra, Uttar Pradesh based software company.
 
