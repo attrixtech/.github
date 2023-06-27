@@ -13,7 +13,7 @@
 - Mobile App Development
 - Internet of Things
 
-## Connect with me:
+## Connect with us:
 
 <!--- Social Icons --->
 <p align="center">
