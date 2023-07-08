@@ -17,29 +17,17 @@
 
 <!--- Social Icons --->
 <p align="center">
-    <a href="https://facebook.com/attrixtech">
+    <a href="https://www.facebook.com/attrixtech">
         <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/facebook.svg" alt="attrixtech" height="50" width="50" />
     </a>
-    <a href="https://twitter.com/developervijay7">
+    <a href="https://twitter.com/attrixtech">
         <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/twitter.svg" alt="developervijay7" height="50" width="50" />
     </a>
-    <a href="https://www.linkedin.com/in/hexpit/">
+    <a href="https://in.linkedin.com/company/attrix-technologies">
         <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/linked-in-alt.svg" alt="developervijay7" height="50" width="50" />
     </a>
-    <a href="https://instagram.com/developervijay">
+    <a href="https://www.instagram.com/attrixtech">
         <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/instagram.svg" alt="developervijay7" height="50" width="50" />
-    </a>
-    <a href="#">
-        <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/youtube.svg" alt="developervijay7" height="50" width="50" />
-    </a>
-    <a href="https://codepen.io/developervijay7">
-        <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/codepen.svg" alt="developervijay7" height="50" width="50" />
-    </a>
-    <a href="https://stackoverflow.com/users/developervijay7">
-        <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/stack-overflow.svg" alt="developervijay7" height="50" width="50" />
-    </a>
-    <a href="https://dev.to/developervijay7">
-        <img align="center" src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/devto.svg" alt="developervijay7" height="50" width="50" />
     </a>
 </p>
 <!--- /Social Icons -->
