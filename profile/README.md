@@ -2,8 +2,8 @@
 
 <p align="center">
     <a href="https://www.attrixtech.com">
-        <img src="https://raw.githubusercontent.com/attrixtech/.github/main/logo-light.svg#gh-dark-mode-only" alt="Attrix Technologies Logo" width="250" />
-        <img src="https://raw.githubusercontent.com/attrixtech/.github/main/logo-dark.svg#gh-light-mode-only" alt="Attrix Technologies Logo" width="250" />
+        <img src="https://raw.githubusercontent.com/attrixtech/.github/main/logo-dark.svg#gh-dark-mode-only" alt="Attrix Technologies Logo" width="250" />
+        <img src="https://raw.githubusercontent.com/attrixtech/.github/main/logo-light.svg#gh-light-mode-only" alt="Attrix Technologies Logo" width="250" />
     </a>
 </p>
 
