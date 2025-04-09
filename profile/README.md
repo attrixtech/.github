@@ -60,17 +60,6 @@ We’d love to connect and work together.
 
 ---
 
-## 📬 Contact & Links
-
-- 🌐 Website: [attrixtech.com](https://www.attrixtech.com)  
-- 📧 Email: [attrix.admin@attrixtech.com](mailto:attrix.admin@attrixtech.com)  
-- 📍 Location: Agra, Uttar Pradesh, India  
-- 📱 Phone: [+91 9045533427](tel:+919045533427)
-
-> _Follow us across social media to stay updated on our latest projects, blogs, and insights._
-
----
-
 ## ⭐ Let’s Build the Future. Together.
 
 Thanks for visiting our GitHub profile. If you believe in purposeful software and meaningful impact — you're in the right place. 🙌
@@ -89,9 +78,30 @@ Thanks for visiting our GitHub profile. If you believe in purposeful software an
 
 ---
 
-## 🌎 Connect with us:
+## 📬 Contact & Links
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/attrixtech)
+- 🌐 Website: [attrixtech.com](https://www.attrixtech.com)  
+- 📧 Email: [attrix.admin@attrixtech.com](mailto:attrix.admin@attrixtech.com)  
+- 📍 Location: Agra, Uttar Pradesh, India  
+- 📱 Phone: [+91 9045533427](tel:+919045533427)
+
+> _Follow us across social media to stay updated on our latest projects, blogs, and insights._
+
+---
+
+
+## 🌎 We Are Social:
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/attrixtech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/attrixtech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/attrix-technologies)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/attrixtech)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AttrixTechnologies)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/attrixtech)
+
+</div>
 
 
 📩 **Email us**: [hello@attrixtech.com](mailto:hello@attrixtech.com)  
