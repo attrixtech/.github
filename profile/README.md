@@ -20,9 +20,8 @@ Attrix Technologies is a software development company based in Agra, Uttar Prade
 
 ## 🌎 Connect with us:
 
-<p align="center">
-    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/attrixtech)
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/attrixtech)
+
 
 📩 **Email us**: [hello@attrixtech.com](mailto:hello@attrixtech.com)  
 🌐 **Visit our website**: [www.attrixtech.com](https://www.attrixtech.com)
