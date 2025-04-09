@@ -3,8 +3,6 @@
 ![Attrix Technologies Logo](https://raw.githubusercontent.com/attrixtech/.github/514577144a206509fcc1520ba7c97faa0c1f324f/logo-dark.svg#gh-light-mode-only)
 ![Attrix Technologies Logo](https://raw.githubusercontent.com/attrixtech/.github/514577144a206509fcc1520ba7c97faa0c1f324f/logo-light.svg#gh-dark-mode-only)
 
-<h1 align="center">👋 Welcome to Attrix Technologies</h1>
-
 <p align="center"><strong>🚀 Innovating from the heart of Agra, India – Crafting Code with Purpose</strong></p>
 
 ---
