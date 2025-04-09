@@ -21,19 +21,19 @@ Attrix Technologies is a software development company based in Agra, Uttar Prade
 ## 🌎 Connect with us:
 
 <p align="center">
-    <a href="https://www.facebook.com/attrixtech" target="_blank">
+    <a href="https://www.facebook.com/attrixtech" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/facebook.svg" alt="Facebook" height="50" width="50" />
     </a>
-    <a href="https://twitter.com/attrixtech" target="_blank">
+    <a href="https://twitter.com/attrixtech" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/twitter.svg" alt="Twitter" height="50" width="50" />
     </a>
-    <a href="https://in.linkedin.com/company/attrix-technologies" target="_blank">
+    <a href="https://in.linkedin.com/company/attrix-technologies" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
     </a>
-    <a href="https://www.instagram.com/attrixtech" target="_blank">
+    <a href="https://www.instagram.com/attrixtech" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/instagram.svg" alt="Instagram" height="50" width="50" />
     </a>
-    <a href="https://www.youtube.com/@attrixtech" target="_blank">
+    <a href="https://www.youtube.com/@attrixtech" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/developervijay7/developervijay7/main/images/icons/youtube.svg" alt="YouTube" height="50" width="50" />
     </a>
 </p>
