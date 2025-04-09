@@ -1,11 +1,7 @@
 # Hello World 👋, Welcome to Attrix Technologies
 
-<p align="center">
-    <a href="https://www.attrixtech.com">
-        <img src="https://raw.githubusercontent.com/attrixtech/.github/main/logo-dark.svg#gh-dark-mode-only" alt="Attrix Technologies Logo" width="250" />
-        <img src="https://raw.githubusercontent.com/attrixtech/.github/main/logo-light.svg#gh-light-mode-only" alt="Attrix Technologies Logo" width="250" />
-    </a>
-</p>
+![Attrix Technologies Logo](https://raw.githubusercontent.com/attrixtech/.github/514577144a206509fcc1520ba7c97faa0c1f324f/logo-dark.svg#gh-light-mode-only)
+![Attrix Technologies Logo](https://raw.githubusercontent.com/attrixtech/.github/514577144a206509fcc1520ba7c97faa0c1f324f/logo-light.svg#gh-dark-mode-only)
 
 ### 🚀 Attrix Technologies - Empowering Digital Innovation
 
